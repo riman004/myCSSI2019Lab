@@ -21,6 +21,10 @@
 
 /* Making border black */
 #b {
+  grid-column-start:
+  grid-column-end:
+  grid-row-start: 
+  grid-row-end:
   background-color: black;
 }
 
@@ -31,5 +35,6 @@
 .photo {
   grid-column: /*insert format*/;
 }
+
 
 /* Style remaining grid elements */
