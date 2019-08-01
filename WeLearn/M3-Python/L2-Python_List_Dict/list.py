@@ -40,8 +40,8 @@
 # else:
 #     print("Hero not found")
 
-names = ["Rickon", "Bran", "Arya", "Sansa", "Jon", "Robb"]
-names[::-1]
-names[4:2:-1]
-print(names[:2])
-print(names[4:2:-1])
+# names = ["Rickon", "Bran", "Arya", "Sansa", "Jon", "Robb"]
+# names[::-1]
+# names[4:2:-1]
+# print(names[:2])
+# print(names[4:2:-1])
